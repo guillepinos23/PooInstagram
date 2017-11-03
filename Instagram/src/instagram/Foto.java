@@ -11,4 +11,5 @@ package instagram;
  */
 public class Foto {
     
+    
 }
